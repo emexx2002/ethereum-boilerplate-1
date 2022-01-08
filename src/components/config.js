@@ -1,5 +1,5 @@
 export const Contract_Address = "0x9F718863296343829D7587c18ba69f533ED8bE1F";
-export const ABI = 
+export const ABI =  
     [
         {
             "constant": true,
